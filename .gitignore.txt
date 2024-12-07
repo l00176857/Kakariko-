@@ -1,0 +1,14 @@
+# Ignore target folder (compiled files)
+/target/
+
+# Ignore IDE or editor settings
+.idea/
+*.iml
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
